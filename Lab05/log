@@ -1,0 +1,138 @@
+/home/gvavouras/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+-bash: cd: /path/to/directory: No such file or directory
+-bash: cd: /path/to/directory: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 410732      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1213/gvavouras)   Gid: ( 1215/gvavouras)
+Access: 2024-12-19 13:03:10.877420121 +0200
+Modify: 2024-12-19 13:03:10.877420121 +0200
+Change: 2024-12-19 13:03:10.877420121 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+./pattern
+cat: file.txt: No such file or directory
+fgdsfdgd
+dfssdf
+gdsf
+
+gdfsgdfs
+g
+g
+dfg
+dfsg
+dsg
+dsg
+d
+dfs
+gdf
+gdsf
+gd
+fg
+dfsg
+dfg
+dffg
+df
+gdfsgdfsgdsf
+g
+dfsg
+dsg
+dfsg
+dfsg
+dfs
+gdsf
+gdfs
+g
+d
+
+gdsfgdsfgdfsgd
+sg
+dfsg
+dsfg
+sdg
+dsfgdsfgdsf
+gds
+fg
+sd
+f
+fgdsfdgd
+dfssdf
+gdsf
+
+gdfsgdfs
+g
+g
+dfg
+dfsg
+dsg
+dsg
+d
+dfs
+gdf
+gdsf
+gd
+fg
+dfsg
+dfg
+dffg
+df
+gdfsgdfsgdsf
+g
+dfsg
+dsg
+dfsg
+dfsg
+dfs
+gdsf
+gdfs
+g
+d
+
+gdsfgdsfgdfsgd
+sg
+dfsg
+dsfg
+sdg
+dsfgdsfgdsf
+gds
+fg
+sd
+f
+fgdsfdgd
+dfssdf
+gdsf
+
+gdfsgdfs
+g
+g
+dfg
+dfsg
+dsg
+gdsfgdsfgdfsgd
+sg
+dfsg
+dsfg
+sdg
+dsfgdsfgdsf
+gds
+fg
+sd
+f
+tar: directory: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+directory/
+directory/
+directory/
+directory/
