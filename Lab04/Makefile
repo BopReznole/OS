@@ -5,11 +5,8 @@ CFLAGS = -Wall -g
 # Source files
 SOURCES = example1.c example2.c example3.c example4.c example5.c
 
-# Object files
-OBJECTS = example1 example2 example3 example4 example5
-
 # Default target
-all: $(OBJECTS)
+all: $(SOURCES:.c=)
 
 # Targets for each file
 example1: example1.c
@@ -29,4 +26,5 @@ example5: example5.c
 
 # Clean target to remove compiled files
 clean:
-	rm -f $(OBJECTS)
+	rm -f $(SOURCES:.c=)
+
